@@ -27,12 +27,13 @@ Example 3:
 •	Acceptable output: [4, 4, 3, 4, 0, 0, 3, 4, 1, 2, 1, 0, 1, 2, 3, 4, 0, 2, 1, 0, 2, 0, 4, 3, 1, 0, 3]
 
 •	Explanation: After placing the items into the five slots, the distribution of sums is V-shaped: [183, 183, 183, 183, 183]
+
 Constraints:
 
 
-•	(3 <= n_slots <= 999) (only odd numbers)
+•	(3 <= n_slots <= 9999) (only odd numbers)
 
-•	(10 <= slot_size <= 10^4)
+•	(10 <= slot_size <= 10^6)
 
 Motivation:
 
